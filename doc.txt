@@ -1,0 +1,8 @@
+player movement
+Key down -> Run on
+key up -> Run off
+
+if Run on -> move as fast as p_speed
+          -> walk animation slide
+
+if Run off -> stop movement,animation
